@@ -1,5 +1,5 @@
 # json-server-tutorials
-JSON Server
+### JSON Server
 
  * What and Why?
   - Json server is an npm package that lets you create fake REST APIs with zero coding
@@ -7,20 +7,20 @@ JSON Server
   - Data should be fetched asynchronously and the APIs should support not just GET but also POST, PUT and DELETE requests
   - Creating a node + express + mongodb backend is pretty time consuming
 
-Course structure
+### Course structure
 
-  - How to create a simple json file that can be used as a database
-  - Querying a list of items
-  - Querying by id
-  - Filtering
-  - Sorting
-  - Pagination
-  - Querying with operations
-  - Querying by full text search
-  - Querying parent or child entities
-  - Making POST, PUT or DELETE requests
+  * How to create a simple json file that can be used as a database
+  * Querying a list of items
+  * Querying by id
+  * Filtering
+  * Sorting
+  * Pagination
+  * Querying with operations
+  * Querying by full text search
+  * Querying parent or child entities
+  * Making POST, PUT or DELETE requests
 
-Prerequisites
+### Prerequisites
 
-  - JSON format
-  - Hơ APIs are consumed in a frontend app
+  * JSON format
+  * How APIs are consumed in a frontend app
